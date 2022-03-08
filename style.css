@@ -1,0 +1,53 @@
+body
+{
+background-image:url("background1.jpg") ;
+}
+#heading{
+    font-size: xx-large;
+    font-weight:bolder ;
+display:inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: maroon;
+margin-left:10px;
+text-align: left;
+}
+#play_button{
+    font-size: x-large;
+    font-weight: 800;
+color: white;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+background-color:maroon;
+border-color: white;
+}
+#footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align:center ;
+    font-size: x-large;
+    font-weight: 800;
+    color: white;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 4px;
+}
+#restart_button{
+        font-size: x-large;
+        font-weight: 800;
+    color: white;
+        font-family: 'Bangers', cursive;
+        letter-spacing: 4px;
+    background-color:maroon;
+    border-color: white;
+    }
+    #inst{
+        float: right !important;
+        margin: 25px;
+        background-color: maroon;
+        color:white;
+        border: black;
+        font-size: medium;
+    }
+    canvas{
+        margin-top:25px ;
+    }
